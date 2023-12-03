@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StoryGen (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "StoryGen (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
